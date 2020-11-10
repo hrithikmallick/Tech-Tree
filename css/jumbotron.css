@@ -1,0 +1,43 @@
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+body {
+  padding-top: 3.5rem;
+}
+.bg1 {
+  background-image: url("images/photo-1512069772995-ec65ed45afd6.jpeg");
+  background-size: 100% 100%;
+  border-style: outset;
+}
+.bg1 h2{
+  margin: 40px;
+  text-align: right;
+}
+.bg1 p{
+  margin: 50px;
+  text-align: left;
+}
+.bg2 {
+  background-image: url("images/photo-1530497610245-94d3c16cda28.jpeg");
+  background-size: 100% 100%;
+  border-style: outset;
+}
+.bg2 h2{
+  margin: 40px;
+  text-align: right;
+}
+.bg2 p{
+  margin: 50px;
+  text-align: left;
+}
+.bg3 {
+  background-image: url("images/photo-1563932127565-699eeea1e17a.jpeg");
+  background-size: 100% 100%;
+  border-style: outset;
+}
+.bg3 h2{
+  margin: 40px;
+  text-align: right;
+}
+.bg3 p{
+  margin: 50px;
+  text-align: left;
+}

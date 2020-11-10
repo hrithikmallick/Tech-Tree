@@ -1,0 +1,154 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.head {
+  display: flex;
+  flex-direction: row;
+  margin-top: 2%;
+  padding-right: 20%;
+}
+.pt-1 {
+  margin-left: 20rem;
+  margin-right: 2rem;
+  padding: 2%;
+  height: 47vh;
+  width: 50%;
+  /* border: 1px solid #d3d3d3; */
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+}
+
+.hd-1 {
+  float: left;
+}
+.hd-2 {
+  float: left;
+}
+.hd-3 {
+  float: left;
+  width: 25vw;
+  margin-left: 8px;
+}
+.inner-hd {
+  display: flex;
+  margin: 2%;
+  padding: 2%;
+  border: 1px solid #d3d3d3;
+}
+.inner-pt {
+  margin-right: 12px;
+  margin-top: 26px;
+}
+.pt-2 {
+  margin-left: 40px;
+  height: 50vh;
+  width: 50%;
+  /* border: 1px solid #d3d3d3; */
+  border-radius: 30px;
+  padding: 2%;
+}
+.pt-2 P {
+  font-size: 15px;
+}
+.pt-btn button {
+  margin-left: 26px;
+  margin-right: 12px;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+#hid-2 {
+  display: none;
+}
+#hid-3 {
+  display: none;
+}
+.hid-table {
+  border: 1px solid #d3d3d3;
+  padding: 4%;
+  margin-bottom: 12px;
+  font-weight: bold;
+  background-color: #f0f0f0;
+  border-radius: 50px;
+}
+.hid-table span {
+  font-size: 12px;
+}
+.hid-table p {
+  float: right;
+  font-size: 12px;
+}
+.hid-table strong {
+  padding-right: 15px;
+}
+.img-2-doc {
+  border: 1px solid white;
+  border-radius: 50%;
+
+  margin-top: 12px;
+  margin-left: 9rem;
+  margin-bottom: 15px;
+}
+.doc-sec p {
+  line-height: 25px;
+}
+.doc-sec button {
+  margin-left: 8rem;
+}
+
+/*for owl item*/
+.txt-cen-doc {
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 25px;
+}
+.owl-style {
+  padding-left: 16rem;
+  padding-right: 10rem;
+  margin-bottom: 3rem;
+}
+.Slide-sec {
+  width: 20vw;
+  margin: 2%;
+  border: 1px solid rgba(0, 0, 0, 0.4);
+  height: 45vh;
+  transition: 0.6s ease;
+  box-shadow: 0px 8px 8px rgba(0, 0, 0, 0.4);
+  padding: 5px 2px 2px 5px;
+}
+.Slide-sec h4 {
+  margin-top: 25px;
+  margin-bottom: 15px;
+}
+.Slide-sec p {
+  width: 16vw;
+  line-height: 22px;
+  font-size: 18px;
+}
+.Slide-sec i {
+  font-size: 45px;
+  border: 1px solid #24b8b6;
+  border-radius: 50%;
+  padding: 14px 19px;
+  background-color: #24b8b6;
+  color: white;
+}
+.Slide-sec a {
+  text-decoration: none;
+  color: #24b8b6;
+  line-height: 25px;
+  border-radius: 25px 25px;
+  border: 1px solid #24b8b6;
+  padding: 10px 29px;
+  background-color: white;
+  transition: 0.8s ease;
+  width: 4.5vw;
+}
+.Slide-sec a:hover {
+  background-color: #24b8b6;
+  color: white;
+
+  text-decoration: none;
+  list-style: none;
+}
